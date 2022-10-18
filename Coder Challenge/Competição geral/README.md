@@ -4,7 +4,7 @@ O sistema foi desenvolvido totalmente em Python e utilizei os módulos pyodbc, p
 Junto com os arquivos há um backup do banco de dados que utilizamos no sistema.
 
 O critério da competição foi qualidade e foi entregue ao melhor sistema desenvolvido em uma semana para resolver o problema proposto.
-Esse projeto me rendeu o 2º lugar na competição. Pra mim foi uma vitória gigantesca já que eu havia começado a faculdade havia uma semana e eu nunca havia feito um projeto desse tamanho ou participado desse tipo de competição.
+Esse projeto me rendeu o 2º 🥈 lugar na competição. Pra mim foi uma vitória gigantesca já que eu havia começado a faculdade havia uma semana e eu nunca havia feito um projeto desse tamanho ou participado desse tipo de competição.
 Como o tempo era curto acabei optando por trabalhar de forma estruturada porque tenho pouca experiência com POO e isso me exigiria uma modelagem maior do projeto.
 
 Esse é o enunciado do desafio proposto pela DSIN.
